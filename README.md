@@ -24,6 +24,18 @@ When ANY build or run configuration succeeds after a prior failure:
 | **Compilation Errors** | ✅ Panic Mode |
 | **Successful Execution** | ✅ Redemption Mode |
 
+## 📸 Screenshots
+
+### 🔴 Panic Mode in Action
+When your build fails, the entire IDE turns red and screams!
+
+![Panic Mode](raw/panic_mode.png)
+
+### 🟢 Redemption Mode in Action
+After you fix it and succeed, the legendary GTA "Mission Passed" screen appears!
+
+![Redemption Mode](raw/redemption_mode.png)
+
 ## 📦 Installation
 
 ### Option 1: Install from ZIP (Recommended)
