@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <idea-plugin>
     <id>com.gtxtreme.panic</id>
-    <name>Panic Plugin</name>
+    <name>FAAAH - Error Notifier</name>
     <vendor email="thakkargaurav409@gmail.com" url="https://github.com/ForceGT">Gaurav Thakkar</vendor>
-    <description>Panic Mode on Build Failure - Red pulsing overlay + scream audio. GTA Mission Passed on success!</description>
+    <description>Theatrical error notifications with red pulsing overlay + scream on build failure. GTA "Mission Passed" on success!</description>
 
     <depends>com.intellij.modules.platform</depends>
     <depends optional="true">com.intellij.gradle</depends>

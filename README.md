@@ -1,6 +1,6 @@
-# Panic Plugin - Viral IntelliJ/Android Studio Plugin
+# FAAAH - Error Notifier Plugin
 
-A hilarious IntelliJ/Android Studio plugin that brings theatrical reactions to your build failures and successes!
+Theatrical error notifications for IntelliJ/Android Studio! Get a red pulsing overlay + scream on build failure, and a legendary GTA "Mission Passed" screen on success.
 
 ## 🎬 Features
 
@@ -40,7 +40,7 @@ After you fix it and succeed, the legendary GTA "Mission Passed" screen appears!
 
 ### Option 1: Install from ZIP (Recommended)
 
-1. **Download** the latest `Panic Plugin-1.0.0.zip` from [Releases](https://github.com/ForceGT/panic-plugin/releases)
+1. **Download** the latest `FAAAH Error Notifier-1.0.0.zip` from [Releases](https://github.com/ForceGT/faahhh-notifier-plugin-intellij/releases)
 
 2. **Open IDE Preferences:**
    - Go to **Preferences** (macOS: `Cmd+,` / Windows/Linux: `Ctrl+Alt+S`)
@@ -55,7 +55,7 @@ After you fix it and succeed, the legendary GTA "Mission Passed" screen appears!
    ![Install from Disk](raw/img.png)
 
 5. **Select the ZIP file:**
-   - Navigate to and select `Panic Plugin-1.0.0.zip`
+   - Navigate to and select `FAAAH Error Notifier-1.0.0.zip`
    - Click **"OK"**
 
 6. **Restart IDE:**
