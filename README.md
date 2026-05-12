@@ -38,7 +38,13 @@ After you fix it and succeed, the legendary GTA "Mission Passed" screen appears!
 
 ## 📦 Installation
 
-### Option 1: Install from ZIP (Recommended)
+### Option 1: Direct download ( Recommended )
+
+You can find this plugin on the JetBrains MarketPlace [here](https://plugins.jetbrains.com/plugin/30427-faaah--error-notifier)
+
+### Option 2: Install from ZIP 
+
+Feeling brave? Try the tedious way or build from source 😛
 
 1. **Download** the latest `FAAAH Error Notifier-1.0.0.zip` from [Releases](https://github.com/ForceGT/faahhh-notifier-plugin-intellij/releases)
 
